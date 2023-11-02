@@ -1,2 +1,2 @@
-let joao = 1;
+let joao = ;
 let maria = 2;
